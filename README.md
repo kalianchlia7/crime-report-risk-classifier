@@ -13,13 +13,13 @@ Features
 - Saves the trained pipeline for reuse without retraining
 - Installation
 
-Usage:
+# Usage
 import joblib
 
-# Load trained model
+(Load trained model)
 model = joblib.load("crime_area_classifier.pkl")
 
-# Predict new crime descriptions
+(Predict new crime descriptions)
 sample_texts = [
     "BURGLARY AT JEWELRY STORE",
     "ASSAULT IN HOLLYWOOD"
