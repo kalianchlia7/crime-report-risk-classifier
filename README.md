@@ -31,9 +31,10 @@ for text, pred in zip(sample_texts, predictions):
 
 # Dataset
 
--Original dataset: Crime Data from 2020 to Present
+- Crime data used in this project comes from the Los Angeles Police Department (2020–present).
+   
+- You can download it here: [data.lacity.org](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
 
--The repository includes instructions to download the dataset.
 
 # Model Performance
 
